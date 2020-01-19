@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 import HeroSection from '../components/reuseable/HeroSection'
 import InfoBlock from '../components/reuseable/InfoBlock'
 import Dualinfoblock from '../components/reuseable/Dualinfoblock'
-import Coursecart from '../components/cart/coursecart'
+import Coursecart from '../components/Cart/coursecart'
 const IndexPage = ({data}) => (
   <Layout>
     <SEO title="Home" />
